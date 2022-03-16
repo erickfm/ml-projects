@@ -1,5 +1,6 @@
 # Machine Learning Projects
-Project work associated with my UC Berkeley Machine Learning course 
+Project work associated with my UC Berkeley Machine Learning course. 
+
 Each notebook is standalone and traverses some topics associated with the algorithms we discussed in class.
 # Projects
   1. Digit Classification with KNN
