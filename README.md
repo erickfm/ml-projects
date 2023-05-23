@@ -6,4 +6,4 @@ Each notebook is standalone and traverses some topics associated with the algori
   1. Digit Classification with KNN
   2. Digit Classification with Naive Bayes
   3. Topic Classification with Naive Bayes
-  4. Poisonous Mushrrom Clustering with PCA and GMM
+  4. Poisonous Mushroom Clustering with PCA and GMM
